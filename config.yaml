@@ -1,0 +1,13 @@
+DISCORD:
+  TOKEN: Your discord bot token
+  GUILD_NAME: Your guild name
+
+# ! will be used to let the bot know it is a command
+PREFIX: '!'
+
+# !issue command for adding issues to github
+ISSUE:
+  TOKEN: Your GitHub access token
+  REPO: StephanAkkerman/Issue_Bot
+  # Other command names that would work, for instance !idea
+  ALIAS: idea
