@@ -16,7 +16,7 @@ Or follow these written instructions:
 - Create the text channel where you would like to receive your Instagram updates in.
 
 Last you need to fill in the important information in `config_example.yaml`, so the bot knows which server it should be connected to.
-- Open `confige.yaml` 
+- Open `config.yaml` 
 - Write your bot token behind `TOKEN:` (line 2)
 - Write your server name behind `GUILD_NAME:` (line 3)
 - Change the value behind `REPO:` (line 11)
