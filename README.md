@@ -1,5 +1,5 @@
-# Issue Bot
-This is a simple Python for self hosting a Discord bot for creating GitHub issues through Discord commands.\
+# Github Issue Discord Bot
+This is a simple Python script for a Discord bot that can create GitHub issues through Discord commands.\
 [![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-380/)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![MIT License](https://img.shields.io/github/license/StephanAkkerman/Issue_Bot.svg?color=brightgreen)](https://opensource.org/licenses/MIT)
